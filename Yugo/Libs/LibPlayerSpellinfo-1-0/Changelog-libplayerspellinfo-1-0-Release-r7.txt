@@ -1,0 +1,25 @@
+------------------------------------------------------------------------
+r8 | draake | 2010-11-13 05:54:32 +0000 (Sat, 13 Nov 2010) | 1 line
+Changed paths:
+   A /tags/Release-r7 (from /trunk/LibPlayerSpellInfo-1.0:7)
+
+Tagging as Release-r7.
+------------------------------------------------------------------------
+r7 | draake | 2010-11-13 05:51:31 +0000 (Sat, 13 Nov 2010) | 1 line
+Changed paths:
+   M /trunk/LibPlayerSpellInfo-1.0/LibPlayerSpellInfo-1.0.lua
+
+Work around for GetCompanionInfo improperly returning nil when logging in sometimes.
+------------------------------------------------------------------------
+r6 | draake | 2010-10-13 19:35:01 +0000 (Wed, 13 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/LibPlayerSpellInfo-1.0/LibPlayerSpellInfo-1.0.lua
+
+Clean up api info for luadoc... part4.
+------------------------------------------------------------------------
+r5 | draake | 2010-10-08 17:35:30 +0000 (Fri, 08 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/LibPlayerSpellInfo-1.0/LibPlayerSpellInfo-1.0.lua
+
+Clean up api info for luadoc... part3.
+------------------------------------------------------------------------

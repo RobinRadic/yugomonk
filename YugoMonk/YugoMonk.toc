@@ -1,0 +1,30 @@
+## Author: Yugö - Hellfire EU
+## Interface: 50400
+## Title: YugoMonk
+## Version: 1.5.9
+## Notes: For brewmasters. Stagger, guard, shuffle, you name it, YugoMonk has it. By Yugö - Hellfire EU
+## X-License: MIT
+## SavedVariables: YugoDB
+## Dependencies: Yugo
+## X-Curse-Packaged-Version: v1.5.9
+## X-Curse-Project-Name: YugoMonk
+## X-Curse-Project-ID: yugomonk
+## X-Curse-Repository-ID: wow/yugomonk/mainline
+
+## Libs\LibBossEncounters-1.1\lib.xml
+## Libs\LibBossIDs-1.0\lib.xml
+
+Libs.xml
+
+YugoMonk.lua
+YugoMonkModulePrototype.lua
+YugoMonkAbilities.lua
+YugoMonkDefensives.lua
+
+YugoMonkAlerts.lua
+Yugo\AlertFrame.lua
+
+YugoMonkTalents.lua
+
+YugoMonkOptions.lua
+YugoBroker.lua

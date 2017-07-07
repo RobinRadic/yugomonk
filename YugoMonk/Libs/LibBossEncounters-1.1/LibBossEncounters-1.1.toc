@@ -1,0 +1,21 @@
+## Interface: 50400
+## Title: Lib: BossEncounters-1.1
+## Notes: Library for detection of beginning and ending of boss encounters.
+## Version: r127-release
+## X-Date: 2013-03-30T18:11:01Z
+## X-Category: Libraries, Boss Encounters
+## X-License: All Rights Reserved
+## OptionalDeps: Ace3, TownCrier
+## SavedVariables: BossEncounters_Data
+## X-Curse-Packaged-Version: r127-release
+## X-Curse-Project-Name: LibBossEncounters-1.1
+## X-Curse-Project-ID: libbossencounters-1-0
+## X-Curse-Repository-ID: wow/libbossencounters-1-0/mainline
+## X-Curse-Packaged-Version: v1.5.9
+## X-Curse-Project-Name: YugoMonk
+## X-Curse-Project-ID: yugomonk
+## X-Curse-Repository-ID: wow/yugomonk/mainline
+
+LibStub\LibStub.lua
+AceEvent-3.0\lib.xml
+lib.xml

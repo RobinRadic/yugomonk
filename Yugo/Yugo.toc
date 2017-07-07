@@ -1,0 +1,30 @@
+## Interface: 50400
+## Title: Yugo
+## Version: 1.5.9
+## Author: Yugö - Hellfire EU
+## SavedVariables: YDB
+## X-Curse-Packaged-Version: v1.5.9
+## X-Curse-Project-Name: Yugo
+## X-Curse-Project-ID: yugo
+## X-Curse-Repository-ID: wow/yugo/mainline
+
+Libs.xml
+
+Generic.lua
+
+Media.lua
+Types.lua
+
+Yugo.lua
+Helpers.xml
+Frames.xml
+
+
+Yugo\Frame.lua
+Yugo\StatusBar.lua
+Yugo\FontString.lua
+
+Widgets\Container.lua
+Widgets\SpellIcon.lua
+Widgets\Cooldown.lua
+
