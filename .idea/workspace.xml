@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" name="Default" comment="" />
+    <ignored path="YugoMonk.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/YugoMonkAbilities.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383783866725" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Widgets/Container.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383262057112" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Yugo.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384657816106" ignored="false" />
+    <file path="/Yugo.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384657802682" ignored="false" />
+    <file path="/Container.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383262022657" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Widgets/SpellIcon.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384035576680" ignored="false" />
+    <file path="/SpellIcon.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383562808813" ignored="false" />
+    <file path="/YugoMonkOptions.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384099066666" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Yugo/Frame.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384104159535" ignored="false" />
+    <file path="/Frame.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384104121418" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Yugo/FontString.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384038736356" ignored="false" />
+    <file path="/FontString.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384038714248" ignored="false" />
+    <file path="/YugoMonk.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384658002595" ignored="false" />
+    <file path="/YugoMonkModulePrototype.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384048702456" ignored="false" />
+    <file path="/YugoMonk.toc" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383882486925" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Helpers/Spells.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383551618198" ignored="false" />
+    <file path="/Spells.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383543236619" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Helpers.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383417126291" ignored="false" />
+    <file path="/Helpers.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383370326813" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Helpers/Player.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384630520265" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Yugo/StatusBar.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384548377725" ignored="false" />
+    <file path="/StatusBar.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384547122662" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Generic.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383389437951" ignored="false" />
+    <file path="$USER_HOME$/.IntelliJIdea12/config/plugins/IDLua/stdlibrary/table.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383389815129" ignored="false" />
+    <file path="/AlertFrame.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383397033291" ignored="false" />
+    <file path="/Player.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384630516693" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Helpers/Player2.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383416634792" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Yugo.toc" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384644259757" ignored="false" />
+    <file path="/Yugo.toc" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384642490578" ignored="false" />
+    <file path="/Player2.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383416632420" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Frames/SpellIcons.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383416774486" ignored="false" />
+    <file path="/SpellIcons.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383416773718" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Frames.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383416793695" ignored="false" />
+    <file path="/LibBossEncounters-1.1.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383536765143" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Libs.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384634737600" ignored="false" />
+    <file path="/Libs.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383865985070" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Libs/LibDataBroker-1.1/lib.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383537522754" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/.pkgmeta" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383537669261" ignored="false" />
+    <file path="/YugoMonkAlerts.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383853544414" ignored="false" />
+    <file path="/YugoMonkTalents.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384048532749" ignored="false" />
+    <file path="/YugoMonkDefensives.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384048226751" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Widgets/Cooldown.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384547335948" ignored="false" />
+    <file path="/Cooldown.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384546659338" ignored="false" />
+    <file path="/.pkgmeta" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383876755323" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alea/.pkgmeta" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383877479482" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alea/Alea.toc" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383861734611" ignored="false" />
+    <file path="/Alea.toc" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383861734128" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alea/Alea.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383878143180" ignored="false" />
+    <file path="/Alea.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383877172853" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alea/AleaModulePrototype.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383866411987" ignored="false" />
+    <file path="/AleaModulePrototype.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383864497741" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alea/AleaOptions.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383864806951" ignored="false" />
+    <file path="/AleaOptions.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383864784064" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alea/AleaInteruptRotation.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384022696368" ignored="false" />
+    <file path="/AleaInteruptRotation.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383942774757" ignored="false" />
+    <file path="$PROJECT_DIR$/../Alea/Libs.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383877596753" ignored="false" />
+    <file path="/DataBroker.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383882303186" ignored="false" />
+    <file path="/YugoBroker.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1383883457208" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Helpers/Talents.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384039516364" ignored="false" />
+    <file path="/Talents.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384039619912" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Helpers/Spec.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384629344576" ignored="false" />
+    <file path="D:/intellij/META-INF/plugin.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384055533117" ignored="false" />
+    <file path="D:/intellij/WoWProject.iml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384051591631" ignored="false" />
+    <file path="D:/intellij/src/TextBoxes.java" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384055283521" ignored="false" />
+    <file path="/plugin.xml" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384055359643" ignored="false" />
+    <file path="/TextBoxes.java" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384055215942" ignored="false" />
+    <file path="D:/intellij/src/MyActionClass.java" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384055538806" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/Helpers/Spell.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384630281943" ignored="false" />
+    <file path="/Spell.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384632135116" ignored="false" />
+    <file path="/Spec.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384629338393" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/YugoHelpers/YugoSpells.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384656700469" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/YugoHelpers/YugoPlayer.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384657690327" ignored="false" />
+    <file path="/YugoPlayer.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384657689343" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/YugoHelpers/YugoCooldowns.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384644741727" ignored="false" />
+    <file path="/YugoCooldowns.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384639412254" ignored="false" />
+    <file path="/YugoSpells.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384656700469" ignored="false" />
+    <file path="/AuctionFilterPlus.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384636724173" ignored="false" />
+    <file path="C:/World of Warcraft/Interface/AddOns/AuctionFilterPlus/AuctionFilterPlus.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384636724173" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/YugoHelpers/spells_monk.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384642438689" ignored="false" />
+    <file path="/spells_monk.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384642366811" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/YugoHelpers/spells.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384642441640" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/YugoHelpers/spelltemplate.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384652290637" ignored="false" />
+    <file path="/spelltemplate.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384652289196" ignored="false" />
+    <file path="$PROJECT_DIR$/../Yugo/YugoHelpers/YugoSpellsData_MONK.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384657014542" ignored="false" />
+    <file path="/YugoSpellsData_MONK.lua" changelist="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" time="1384655085207" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="YugoMonkAbilities.lua" pinned="false" current="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/OLD/YugoMonkAbilities.lua">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state line="171" column="0" selection-start="5407" selection-end="5407" vertical-scroll-proportion="0.15981199">
+                    <folding>
+                      <element signature="e#1418#1742#0" expanded="false" />
+                      <element signature="e#2995#4140#0" expanded="false" />
+                      <element signature="e#4685#4714#0" expanded="false" />
+                      <element signature="e#4807#4991#1" expanded="false" />
+                      <element signature="e#5010#5105#1" expanded="false" />
+                      <element signature="e#5408#5465#0" expanded="false" />
+                      <element signature="e#5467#8128#0" expanded="false" />
+                      <element signature="e#5594#5686#1" expanded="false" />
+                      <element signature="e#5755#6125#1" expanded="false" />
+                      <element signature="e#5886#5988#0" expanded="false" />
+                      <element signature="e#6004#6119#0" expanded="false" />
+                      <element signature="e#6196#6611#1" expanded="false" />
+                      <element signature="e#6375#6470#0" expanded="false" />
+                      <element signature="e#6486#6605#0" expanded="false" />
+                      <element signature="e#6686#7076#1" expanded="false" />
+                      <element signature="e#6840#6935#0" expanded="false" />
+                      <element signature="e#6951#7070#0" expanded="false" />
+                      <element signature="e#7152#7644#1" expanded="false" />
+                      <element signature="e#7334#7471#0" expanded="false" />
+                      <element signature="e#7487#7638#0" expanded="false" />
+                      <element signature="e#7719#8123#1" expanded="false" />
+                      <element signature="e#7884#7980#0" expanded="false" />
+                      <element signature="e#7996#8117#0" expanded="false" />
+                      <element signature="e#8223#8377#0" expanded="false" />
+                      <element signature="e#8301#8367#0" expanded="false" />
+                      <element signature="e#8583#8661#0" expanded="false" />
+                      <element signature="e#8960#11593#0" expanded="false" />
+                      <element signature="e#9082#11583#0" expanded="false" />
+                      <element signature="e#9107#9480#0" expanded="false" />
+                      <element signature="e#9506#9634#0" expanded="false" />
+                      <element signature="e#9662#9981#0" expanded="false" />
+                      <element signature="e#10008#10329#0" expanded="false" />
+                      <element signature="e#10359#10506#0" expanded="false" />
+                      <element signature="e#10530#10663#0" expanded="false" />
+                      <element signature="e#10689#11005#0" expanded="false" />
+                      <element signature="e#11030#11390#0" expanded="false" />
+                      <element signature="e#11420#11567#0" expanded="false" />
+                      <element signature="e#12036#12751#0" expanded="false" />
+                      <element signature="e#12226#12366#0" expanded="false" />
+                      <element signature="e#12413#12553#0" expanded="false" />
+                      <element signature="e#12604#12744#0" expanded="false" />
+                      <element signature="e#12808#12837#1" expanded="false" />
+                      <element signature="e#12839#15559#0" expanded="false" />
+                      <element signature="e#12963#13035#1" expanded="false" />
+                      <element signature="e#13114#13557#1" expanded="false" />
+                      <element signature="e#13306#13414#0" expanded="false" />
+                      <element signature="e#13430#13551#0" expanded="false" />
+                      <element signature="e#13634#14043#1" expanded="false" />
+                      <element signature="e#13809#13903#0" expanded="false" />
+                      <element signature="e#13919#14037#0" expanded="false" />
+                      <element signature="e#14124#14508#1" expanded="false" />
+                      <element signature="e#14274#14368#0" expanded="false" />
+                      <element signature="e#14384#14502#0" expanded="false" />
+                      <element signature="e#14590#15076#1" expanded="false" />
+                      <element signature="e#14768#14904#0" expanded="false" />
+                      <element signature="e#14920#15070#0" expanded="false" />
+                      <element signature="e#15157#15555#1" expanded="false" />
+                      <element signature="e#15318#15413#0" expanded="false" />
+                      <element signature="e#15429#15549#0" expanded="false" />
+                      <element signature="e#15561#18731#0" expanded="false" />
+                      <element signature="e#15767#16124#1" expanded="false" />
+                      <element signature="e#16173#16907#1" expanded="false" />
+                      <element signature="e#16194#16397#0" expanded="false" />
+                      <element signature="e#16483#16675#0" expanded="false" />
+                      <element signature="e#16698#16897#0" expanded="false" />
+                      <element signature="e#16964#18535#1" expanded="false" />
+                      <element signature="e#17071#18525#0" expanded="false" />
+                      <element signature="e#17098#17221#0" expanded="false" />
+                      <element signature="e#17247#17851#0" expanded="false" />
+                      <element signature="e#17537#17658#0" expanded="false" />
+                      <element signature="e#17686#17832#0" expanded="false" />
+                      <element signature="e#17886#18511#0" expanded="false" />
+                      <element signature="e#18180#18310#0" expanded="false" />
+                      <element signature="e#18338#18493#0" expanded="false" />
+                      <element signature="e#19318#19488#1" expanded="false" />
+                      <element signature="e#19953#20054#1" expanded="false" />
+                      <element signature="e#20222#20427#0" expanded="false" />
+                      <element signature="e#20429#23249#0" expanded="false" />
+                      <element signature="e#21361#21646#1" expanded="false" />
+                      <element signature="e#21672#22193#1" expanded="false" />
+                      <element signature="e#21774#22055#0" expanded="false" />
+                      <element signature="e#22395#22571#1" expanded="false" />
+                      <element signature="e#23058#23228#1" expanded="false" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="YugoMonk" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="YugoMonk.lua" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YugoMonk.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YugoMonk.toc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/YugoMonk.toc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="17" selection-start="86" selection-end="86" vertical-scroll-proportion="0.06900726">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Libs/LibBossEncounters-1.1/Classic.lua" />
+        <option value="$PROJECT_DIR$/Libs/LibBossEncounters-1.1/MistsOfPandaria.lua" />
+        <option value="$PROJECT_DIR$/Libs/LibBossEncounters-1.1/TheBurningCrusade.lua" />
+        <option value="$PROJECT_DIR$/Libs/LibBossEncounters-1.1/WrathOfTheLichKing.lua" />
+        <option value="$PROJECT_DIR$/.pkgmeta" />
+        <option value="$PROJECT_DIR$/Libs.xml" />
+        <option value="$PROJECT_DIR$/DataBroker.lua" />
+        <option value="$PROJECT_DIR$/YugoMonk.lua" />
+        <option value="$PROJECT_DIR$/YugoBroker.lua" />
+        <option value="$PROJECT_DIR$/YugoMonkAbilities.lua" />
+        <option value="$PROJECT_DIR$/YugoMonkAlerts.lua" />
+        <option value="$PROJECT_DIR$/YugoMonkDefensives.lua" />
+        <option value="$PROJECT_DIR$/YugoMonkModulePrototype.lua" />
+        <option value="$PROJECT_DIR$/YugoMonkOptions.lua" />
+        <option value="$PROJECT_DIR$/YugoMonkTalents.lua" />
+        <option value="$PROJECT_DIR$/YugoMonk.toc" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="4" />
+    <option name="width" value="1613" />
+    <option name="height" value="1012" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Assignment issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YugoMonk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YugoMonk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YugoMonk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YugoMonk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YugoMonk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OLD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Yugo" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wowprojects\YugoMonk" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wowprojects\YugoMonk\OLD" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.sylvanaar.idea.Lua.run.LuaConfigurationType" factoryName="Lua Script">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="ALTERNATE_INTERPRETER" value="false" />
+      <envs />
+      <module name="YugoMonk" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">C:\Users\Robin\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8a86e1a-9114-4333-9bc6-d6c28da90ff3" name="Default" comment="" />
+      <created>1383252960451</created>
+      <updated>1383252960451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="4" width="1613" height="1012" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2501612" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2501612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39961013" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OLD/YugoMonkTalents.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="35" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OLD/YugoMonkOptions.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="268" column="25" selection-start="7231" selection-end="7231" vertical-scroll-proportion="0.022326674">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libs/LibCooldownTracker-1.0/library.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="188" column="29" selection-start="4854" selection-end="4854" vertical-scroll-proportion="-0.8507638">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="50" selection-start="1008" selection-end="1066" vertical-scroll-proportion="0.40188015">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OLD/YugoMonkDefensives.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="15" selection-start="913" selection-end="919" vertical-scroll-proportion="0.2199074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OLD/YugoMonk.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1340" column="0" selection-start="38071" selection-end="38071" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#927#1499#1" expanded="false" />
+            <element signature="e#2272#2318#1" expanded="false" />
+            <element signature="e#2353#3023#1" expanded="false" />
+            <element signature="e#2427#2635#0" expanded="false" />
+            <element signature="e#2510#2560#0" expanded="false" />
+            <element signature="e#2579#2629#0" expanded="false" />
+            <element signature="e#2655#3021#0" expanded="false" />
+            <element signature="e#2674#2821#0" expanded="false" />
+            <element signature="e#2841#3014#0" expanded="false" />
+            <element signature="e#3083#3179#1" expanded="false" />
+            <element signature="e#3207#3294#1" expanded="false" />
+            <element signature="e#3529#3787#1" expanded="false" />
+            <element signature="e#3591#3781#0" expanded="false" />
+            <element signature="e#3605#3771#1" expanded="false" />
+            <element signature="e#3957#4218#1" expanded="false" />
+            <element signature="e#4019#4212#0" expanded="false" />
+            <element signature="e#4033#4202#1" expanded="false" />
+            <element signature="e#4357#4615#1" expanded="false" />
+            <element signature="e#4419#4609#0" expanded="false" />
+            <element signature="e#4433#4599#1" expanded="false" />
+            <element signature="e#4729#5164#1" expanded="false" />
+            <element signature="e#4790#4852#0" expanded="false" />
+            <element signature="e#4875#4946#0" expanded="false" />
+            <element signature="e#4966#5158#0" expanded="false" />
+            <element signature="e#4980#5148#1" expanded="false" />
+            <element signature="e#5301#5562#1" expanded="false" />
+            <element signature="e#5363#5556#0" expanded="false" />
+            <element signature="e#5377#5546#1" expanded="false" />
+            <element signature="e#5711#5978#1" expanded="false" />
+            <element signature="e#5773#5972#0" expanded="false" />
+            <element signature="e#5787#5962#1" expanded="false" />
+            <element signature="e#6113#6373#1" expanded="false" />
+            <element signature="e#6175#6367#0" expanded="false" />
+            <element signature="e#6189#6357#1" expanded="false" />
+            <element signature="e#6513#6775#1" expanded="false" />
+            <element signature="e#6575#6769#0" expanded="false" />
+            <element signature="e#6589#6759#1" expanded="false" />
+            <element signature="e#6868#6997#1" expanded="false" />
+            <element signature="e#6884#6991#0" expanded="false" />
+            <element signature="e#6905#6981#0" expanded="false" />
+            <element signature="e#7099#7423#1" expanded="false" />
+            <element signature="e#7115#7417#0" expanded="false" />
+            <element signature="e#7304#7407#0" expanded="false" />
+            <element signature="e#7524#7654#1" expanded="false" />
+            <element signature="e#7540#7648#0" expanded="false" />
+            <element signature="e#7561#7638#0" expanded="false" />
+            <element signature="e#7798#7988#1" expanded="false" />
+            <element signature="e#7814#7982#0" expanded="false" />
+            <element signature="e#7896#7972#0" expanded="false" />
+            <element signature="e#8161#8476#1" expanded="false" />
+            <element signature="e#8177#8470#0" expanded="false" />
+            <element signature="e#8357#8460#0" expanded="false" />
+            <element signature="e#8630#8719#1" expanded="false" />
+            <element signature="e#8646#8713#0" expanded="false" />
+            <element signature="e#8932#9648#1" expanded="false" />
+            <element signature="e#9035#9302#0" expanded="false" />
+            <element signature="e#9061#9224#0" expanded="false" />
+            <element signature="e#9329#9638#0" expanded="false" />
+            <element signature="e#9717#9853#1" expanded="false" />
+            <element signature="e#9993#10840#1" expanded="false" />
+            <element signature="e#10087#10733#0" expanded="false" />
+            <element signature="e#10149#10297#0" expanded="false" />
+            <element signature="e#10324#10467#0" expanded="false" />
+            <element signature="e#10573#10719#0" expanded="false" />
+            <element signature="e#10756#10830#0" expanded="false" />
+            <element signature="e#10891#11039#1" expanded="false" />
+            <element signature="e#11203#11795#1" expanded="false" />
+            <element signature="e#11331#11785#0" expanded="false" />
+            <element signature="e#11349#11553#1" expanded="false" />
+            <element signature="e#11571#11770#1" expanded="false" />
+            <element signature="e#12108#12285#0" expanded="false" />
+            <element signature="e#12320#12434#0" expanded="false" />
+            <element signature="e#13487#13778#0" expanded="false" />
+            <element signature="e#14124#14383#0" expanded="false" />
+            <element signature="e#14384#14636#0" expanded="false" />
+            <element signature="e#14637#15096#0" expanded="false" />
+            <element signature="e#16064#16105#1" expanded="false" />
+            <element signature="e#16375#16845#1" expanded="false" />
+            <element signature="e#17030#17541#1" expanded="false" />
+            <element signature="e#17077#17531#0" expanded="false" />
+            <element signature="e#17095#17299#1" expanded="false" />
+            <element signature="e#17317#17516#1" expanded="false" />
+            <element signature="e#18072#19128#0" expanded="false" />
+            <element signature="e#19129#19712#0" expanded="false" />
+            <element signature="e#19713#21022#0" expanded="false" />
+            <element signature="e#22089#22630#0" expanded="false" />
+            <element signature="e#22631#23131#0" expanded="false" />
+            <element signature="e#23220#23456#0" expanded="false" />
+            <element signature="e#23459#23691#0" expanded="false" />
+            <element signature="e#23692#23811#0" expanded="false" />
+            <element signature="e#23812#24775#0" expanded="false" />
+            <element signature="e#24850#25431#0" expanded="false" />
+            <element signature="e#25432#25796#0" expanded="false" />
+            <element signature="e#25797#26305#0" expanded="false" />
+            <element signature="e#26306#26399#0" expanded="false" />
+            <element signature="e#26400#27004#0" expanded="false" />
+            <element signature="e#27005#27172#0" expanded="false" />
+            <element signature="e#27173#28555#0" expanded="false" />
+            <element signature="e#28629#29274#0" expanded="false" />
+            <element signature="e#29006#29098#1" expanded="false" />
+            <element signature="e#29137#29249#1" expanded="false" />
+            <element signature="e#29275#29885#0" expanded="false" />
+            <element signature="e#29617#29709#1" expanded="false" />
+            <element signature="e#29748#29860#1" expanded="false" />
+            <element signature="e#29886#30757#0" expanded="false" />
+            <element signature="e#30825#31390#0" expanded="false" />
+            <element signature="e#31391#31741#0" expanded="false" />
+            <element signature="e#31624#31671#0" expanded="false" />
+            <element signature="e#31742#31880#0" expanded="false" />
+            <element signature="e#31949#33795#0" expanded="false" />
+            <element signature="e#33796#33971#0" expanded="false" />
+            <element signature="e#33972#34194#0" expanded="false" />
+            <element signature="e#34261#34918#0" expanded="false" />
+            <element signature="e#36155#36261#0" expanded="false" />
+            <element signature="e#36262#36360#0" expanded="false" />
+            <element signature="e#36361#36447#0" expanded="false" />
+            <element signature="e#36448#36531#0" expanded="false" />
+            <element signature="e#36674#36767#0" expanded="false" />
+            <element signature="e#36851#36886#0" expanded="false" />
+            <element signature="e#36887#36938#0" expanded="false" />
+            <element signature="e#36939#37202#0" expanded="false" />
+            <element signature="e#37203#37370#0" expanded="false" />
+            <element signature="e#37371#37494#0" expanded="false" />
+            <element signature="e#37797#37986#0" expanded="false" />
+            <element signature="e#38668#38858#1" expanded="false" />
+            <element signature="e#39651#39841#1" expanded="false" />
+            <element signature="e#40503#40565#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoBroker.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoMonkAbilities.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoMonkAlerts.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoMonkDefensives.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoMonkModulePrototype.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoMonkOptions.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoMonkTalents.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OLD/YugoMonkAbilities.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="0" selection-start="5407" selection-end="5407" vertical-scroll-proportion="0.15981199">
+          <folding>
+            <element signature="e#1418#1742#0" expanded="false" />
+            <element signature="e#2995#4140#0" expanded="false" />
+            <element signature="e#4685#4714#0" expanded="false" />
+            <element signature="e#4807#4991#1" expanded="false" />
+            <element signature="e#5010#5105#1" expanded="false" />
+            <element signature="e#5408#5465#0" expanded="false" />
+            <element signature="e#5467#8128#0" expanded="false" />
+            <element signature="e#5594#5686#1" expanded="false" />
+            <element signature="e#5755#6125#1" expanded="false" />
+            <element signature="e#5886#5988#0" expanded="false" />
+            <element signature="e#6004#6119#0" expanded="false" />
+            <element signature="e#6196#6611#1" expanded="false" />
+            <element signature="e#6375#6470#0" expanded="false" />
+            <element signature="e#6486#6605#0" expanded="false" />
+            <element signature="e#6686#7076#1" expanded="false" />
+            <element signature="e#6840#6935#0" expanded="false" />
+            <element signature="e#6951#7070#0" expanded="false" />
+            <element signature="e#7152#7644#1" expanded="false" />
+            <element signature="e#7334#7471#0" expanded="false" />
+            <element signature="e#7487#7638#0" expanded="false" />
+            <element signature="e#7719#8123#1" expanded="false" />
+            <element signature="e#7884#7980#0" expanded="false" />
+            <element signature="e#7996#8117#0" expanded="false" />
+            <element signature="e#8223#8377#0" expanded="false" />
+            <element signature="e#8301#8367#0" expanded="false" />
+            <element signature="e#8583#8661#0" expanded="false" />
+            <element signature="e#8960#11593#0" expanded="false" />
+            <element signature="e#9082#11583#0" expanded="false" />
+            <element signature="e#9107#9480#0" expanded="false" />
+            <element signature="e#9506#9634#0" expanded="false" />
+            <element signature="e#9662#9981#0" expanded="false" />
+            <element signature="e#10008#10329#0" expanded="false" />
+            <element signature="e#10359#10506#0" expanded="false" />
+            <element signature="e#10530#10663#0" expanded="false" />
+            <element signature="e#10689#11005#0" expanded="false" />
+            <element signature="e#11030#11390#0" expanded="false" />
+            <element signature="e#11420#11567#0" expanded="false" />
+            <element signature="e#12036#12751#0" expanded="false" />
+            <element signature="e#12226#12366#0" expanded="false" />
+            <element signature="e#12413#12553#0" expanded="false" />
+            <element signature="e#12604#12744#0" expanded="false" />
+            <element signature="e#12808#12837#1" expanded="false" />
+            <element signature="e#12839#15559#0" expanded="false" />
+            <element signature="e#12963#13035#1" expanded="false" />
+            <element signature="e#13114#13557#1" expanded="false" />
+            <element signature="e#13306#13414#0" expanded="false" />
+            <element signature="e#13430#13551#0" expanded="false" />
+            <element signature="e#13634#14043#1" expanded="false" />
+            <element signature="e#13809#13903#0" expanded="false" />
+            <element signature="e#13919#14037#0" expanded="false" />
+            <element signature="e#14124#14508#1" expanded="false" />
+            <element signature="e#14274#14368#0" expanded="false" />
+            <element signature="e#14384#14502#0" expanded="false" />
+            <element signature="e#14590#15076#1" expanded="false" />
+            <element signature="e#14768#14904#0" expanded="false" />
+            <element signature="e#14920#15070#0" expanded="false" />
+            <element signature="e#15157#15555#1" expanded="false" />
+            <element signature="e#15318#15413#0" expanded="false" />
+            <element signature="e#15429#15549#0" expanded="false" />
+            <element signature="e#15561#18731#0" expanded="false" />
+            <element signature="e#15767#16124#1" expanded="false" />
+            <element signature="e#16173#16907#1" expanded="false" />
+            <element signature="e#16194#16397#0" expanded="false" />
+            <element signature="e#16483#16675#0" expanded="false" />
+            <element signature="e#16698#16897#0" expanded="false" />
+            <element signature="e#16964#18535#1" expanded="false" />
+            <element signature="e#17071#18525#0" expanded="false" />
+            <element signature="e#17098#17221#0" expanded="false" />
+            <element signature="e#17247#17851#0" expanded="false" />
+            <element signature="e#17537#17658#0" expanded="false" />
+            <element signature="e#17686#17832#0" expanded="false" />
+            <element signature="e#17886#18511#0" expanded="false" />
+            <element signature="e#18180#18310#0" expanded="false" />
+            <element signature="e#18338#18493#0" expanded="false" />
+            <element signature="e#19318#19488#1" expanded="false" />
+            <element signature="e#19953#20054#1" expanded="false" />
+            <element signature="e#20222#20427#0" expanded="false" />
+            <element signature="e#20429#23249#0" expanded="false" />
+            <element signature="e#21361#21646#1" expanded="false" />
+            <element signature="e#21672#22193#1" expanded="false" />
+            <element signature="e#21774#22055#0" expanded="false" />
+            <element signature="e#22395#22571#1" expanded="false" />
+            <element signature="e#23058#23228#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoMonk.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugoMonk.toc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="86" selection-end="86" vertical-scroll-proportion="0.06900726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Yugo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>IDEA IU-129.161</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>YugoMonk</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Kahlua</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

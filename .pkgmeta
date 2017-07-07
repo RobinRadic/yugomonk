@@ -1,0 +1,21 @@
+enable-nolib-creation: no
+
+package-as: YugoMonk
+
+externals:
+	YugoLib:
+		url: svn://svn.curseforge.net/wow/yugo/mainline/trunk
+		tag: latest
+    YugoLib/Libs:
+        url: svn://svn.wowace.com/wow/ace3/mainline/trunk
+        tag: Release-r1098
+    Libs:
+        url: svn://svn.wowace.com/wow/ace3/mainline/trunk
+        tag: Release-r1098
+
+ignore:
+    - .idea
+    - YugoMonk.iml
+
+move-folders:
+	YugoMonk/YugoLib: Yugo
